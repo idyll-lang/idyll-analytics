@@ -1,6 +1,16 @@
 # idyll-analytics
 
-Tools to collect detailed usage analytics of [Idyll articles](https://idyll-lang.org).
+Tools to collect detailed usage analytics of [Idyll articles](https://idyll-lang.org). If you use this in academic work, please cite the paper:
+
+```
+@article{2019-idyll-analytics,
+ title = {Capture \& Analysis of Active Reading Behaviors for Interactive Articles on the Web},
+ author = {Matt Conlen AND Alex Kale AND Jeffrey Heer},
+ journal = {Computer Graphics Forum (Proc. EuroVis)},
+ year = {2019},
+ url = {http://idl.cs.washington.edu/papers/idyll-analytics},
+}
+```
 
 ## Installation
 
