@@ -1,0 +1,3 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+**/*.json filter=lfs diff=lfs merge=lfs -text
+visualization-tools/scroll-hops/data/guitar.json filter=lfs diff=lfs merge=lfs -text
