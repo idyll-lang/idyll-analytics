@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "firebase": "^5.9.3"
+    "firebase": "^10.9.0"
   }
 }
